@@ -85,4 +85,4 @@ O diagrama completo fica em `docs/network-diagram.png`.
 
 ## Autor
 
-[Getulio Coelho Oliveira] | Certificações: [Security+, CySA+, eJPT, BTL1]
+[Getulio Coelho Oliveira]
